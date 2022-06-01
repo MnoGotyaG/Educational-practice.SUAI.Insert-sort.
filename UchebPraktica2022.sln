@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UchebPraktica2022", "UchebPraktica2022\UchebPraktica2022.vcxproj", "{DDEBA8D7-1A91-43E4-8C8C-B15DB2016D9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDEBA8D7-1A91-43E4-8C8C-B15DB2016D9A}.Debug|x64.ActiveCfg = Debug|x64
+		{DDEBA8D7-1A91-43E4-8C8C-B15DB2016D9A}.Debug|x64.Build.0 = Debug|x64
+		{DDEBA8D7-1A91-43E4-8C8C-B15DB2016D9A}.Debug|x86.ActiveCfg = Debug|Win32
+		{DDEBA8D7-1A91-43E4-8C8C-B15DB2016D9A}.Debug|x86.Build.0 = Debug|Win32
+		{DDEBA8D7-1A91-43E4-8C8C-B15DB2016D9A}.Release|x64.ActiveCfg = Release|x64
+		{DDEBA8D7-1A91-43E4-8C8C-B15DB2016D9A}.Release|x64.Build.0 = Release|x64
+		{DDEBA8D7-1A91-43E4-8C8C-B15DB2016D9A}.Release|x86.ActiveCfg = Release|Win32
+		{DDEBA8D7-1A91-43E4-8C8C-B15DB2016D9A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CE0047E-14C5-4C2C-9939-7A6A582AF0C6}
+	EndGlobalSection
+EndGlobal
